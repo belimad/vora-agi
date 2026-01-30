@@ -1,7 +1,7 @@
 # VoraAGI
 
 <div align="center">
-  <img src="https://ibb.co/Q3bFRrxb"<img width="974" height="756" alt="image" src="https://ibb.co/Q3bFRrxb" />
+  <img src="https://i.ibb.co/wF0NXM20/image.png"<img width="974" height="756" alt="image" src="[https://ibb.co/Q3bFRrxb](https://i.ibb.co/wF0NXM20/image.png)" />
 
   <h3>Next-Generation AI Agent Orchestration Platform</h3>
   <p>Empowering AI Collaboration Through Advanced Agent Orchestration</p>
